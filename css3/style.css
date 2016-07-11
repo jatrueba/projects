@@ -1,0 +1,129 @@
+.clearfix{
+  border-style: solid;
+  border-color: black;
+  height: 240px;
+  width: 240px;
+  border-radius: 50%;
+
+}
+.intro-section {
+
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-position: 0 0;
+}
+
+body {
+  font-family: 'Carrois Gothic SC', sans-serif;
+  text-align: center;
+  background-color: black;
+  color: #e6af61;
+
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+
+  line-height: 1.5;
+}
+
+h1 {
+  font-weight: bold;
+  font-family: FFF-Tusj;
+  font-size: 5em;
+}
+
+p {
+  font-family: Fontin;
+  color:#e6af61;
+}
+
+.underline {
+  border-bottom: 2px solid #e6af61;
+  transition-duration: .5s;
+}
+
+
+#top-nav {
+  background-color: transparent;
+  border-bottom: none;
+}
+
+#header {
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+font-size: 1.2em;
+
+
+}
+
+#header li {
+  padding-right: 2em;
+  padding-left: -3em;
+  color: #e6af61;
+  font-family: 'Carrois Gothic SC', sans-serif;
+  display: inline;
+
+}
+.center {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+}
+
+
+
+.info{
+  text-align: center;
+  color: black;
+  margin:  0 200px;
+  padding: 0.5em;
+  color: #e6af61;
+  padding-top: 5em;
+  font-size: 1.2em;
+
+}
+
+#about{
+color: #e6af61;
+font-family: Didot, serif;
+   text-align: center;
+   background: black;
+
+}
+
+#skills {
+  height: 100%;
+  font-family: Fontin;
+  display: inline;
+  font-size: 1.2em;
+  list-style-type: none;
+}
+
+.links{
+font-family: Didot, serif;
+padding: 0.5em;
+background-color: black;
+color: #e6af61;
+
+}
+.contact{
+font-family: Didot, serif;
+padding: 0.5em;
+background-color: black;
+color: #e6af61;
+
+}
